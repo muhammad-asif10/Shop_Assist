@@ -1,3 +1,5 @@
+![Bot Banner](banner.png)
+
 # FAQ's Chatbot 🤖
 
 A smart, AI-powered FAQ chatbot built with Streamlit, LangChain, and FAISS. This application allows users to query a knowledge base of Frequently Asked Questions using natural language and receive relevant answers instantly.
@@ -57,7 +59,7 @@ Before you begin, ensure you have the following installed:
 
 2.  **Run the Application**:
     ```bash
-    streamlit run FAQ_Bot.py
+    streamlit run ShopAssist.py
     ```
 
 3.  **Interact**:
@@ -83,4 +85,4 @@ FAQ's Chatbot/
 
 ## 📝 License
 
-This project is open-source and available for personal and educational use.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
