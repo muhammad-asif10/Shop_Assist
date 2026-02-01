@@ -70,9 +70,11 @@ Before you begin, ensure you have the following installed:
 
 ```
 FAQ's Chatbot/
-├── FAQ_Bot.py          # Main application script
+├── ShopAssist.py          # Main application script
 ├── FAQ's.json          # Knowledge base data file
+├── banner.png          # banner image
 ├── requirements.txt    # Python dependencies
+├── LICENSE             #project license
 └── README.md           # Project documentation
 ```
 
